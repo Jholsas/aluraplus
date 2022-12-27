@@ -1,4 +1,4 @@
-# aluraplus
+# Alura Plus
 
 <p align="center">A website to promote Alura Plus, a streaming platform with Alura's educational content.</p>
 <p align="center">In this project, create a homepage of a Figma project.</p>
