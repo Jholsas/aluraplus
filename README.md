@@ -9,4 +9,4 @@
 * CSS
 
 ## Screenshots
-![Screenshot da tela inicial do Alura Plus](https://imgur.com/DjA4Wib)
+![Screenshot da tela inicial do Alura Plus](https://i.imgur.com/DjA4Wib.png)
